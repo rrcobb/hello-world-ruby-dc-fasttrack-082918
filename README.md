@@ -5,6 +5,7 @@ Labs:
 - Welcome to Tic Tac Toe
 - Reading Error Messages
 - Variable Assignment
+- STRETCH: Tic Tac Toe Board
 
 
 
