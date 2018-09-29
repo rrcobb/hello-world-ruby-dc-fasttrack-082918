@@ -2,7 +2,8 @@
 
 Labs:
 - Hello World
-- 
+- Welcome to Tic Tac Toe 
+- Variable Assignment
 
 
 
